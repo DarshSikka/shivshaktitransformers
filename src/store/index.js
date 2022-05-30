@@ -2,7 +2,7 @@ import { createStore } from 'vuex'
 
 export default createStore({
   state: {
-    api: "https://shivshaktitransformers-backend.darshsikka.repl.co/"
+    api: "https://shivshaktitransformers-backend.darshsikka.repl.co"
   },
   getters: {
   },
