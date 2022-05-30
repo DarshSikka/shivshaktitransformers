@@ -10,18 +10,6 @@ export default {
     data(){
 return {
     updates: [
-        {
-            title: "5 New Transformers created"
-        },
-        {
-            title: "Novax Djocovid killed by stepping into a transformers"
-        },
-        { 
-            title: "18 ISU officials shocked and hospitalized by newformed stepdown transformers"
-        },
-        {
-            title: "Transformers threaten ISU into not underscording Yuzuru Hanyu"
-        }
     ]
         }
     },
